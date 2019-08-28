@@ -39,3 +39,10 @@ Execute o programa utilizando o comando abaixo:
 python reajuste_salario.py
 ```
 
+### Programa que efetua o cálculo de desconto de 10% no preço do produto
+
+Execute o programa utilizando o comando abaixo:
+
+```bash 
+python desconto_preco_produto.py
+```

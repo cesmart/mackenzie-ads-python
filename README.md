@@ -31,3 +31,11 @@ Execute o programa utilizando o comando abaixo:
 python media_aritmetica.py
 ```
 
+### Programa que efetua o reajuste de salário baseando-se no valor atual para definir o percentual de reajuste
+
+Execute o programa utilizando o comando abaixo:
+
+```bash 
+python reajuste_salario.py
+```
+
